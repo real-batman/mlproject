@@ -99,4 +99,5 @@ def initiate_data_ingestion():
 # To execute the process:
 # if __name__ == "__main__":
 #     train_path, test_path = initiate_data_ingestion()
+      print(f"Data ingestion completed. Train data path: {train_path}, Test data path: {test_path}")
 '''
